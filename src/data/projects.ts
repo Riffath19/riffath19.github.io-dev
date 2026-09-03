@@ -41,7 +41,7 @@ export const projects: Project[] = [
     tagline: 'Enterprise point-of-sale',
     description:
       'An enterprise-grade point-of-sale system covering inventory management, order processing, and customer management for a multi-outlet restaurant operation.',
-    stack: ['React', 'Node.js', 'MySQL'],
+    stack: ['React', 'Java/Spring Boot', 'MySQL'],
     category: ['Full-Stack', 'Backend'],
     github: 'https://github.com/Riffath19',
     demo: undefined,
